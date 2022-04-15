@@ -10,5 +10,5 @@ dotnew new webapi<br>
 ## I had to run the below before I linked my github repo to VS Code<div>
   
 git config --global user.name "Mbulelo Damba"<br>
-git config --global user.email mabuda19@gmail.com<br><br>
-![Mbulelo](../GiphyAnimations/mbu.jpg)
+git config --global user.email mabuda19@gmail.com<br>
+
