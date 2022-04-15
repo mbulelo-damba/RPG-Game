@@ -11,4 +11,4 @@ dotnew new webapi<br>
   
 git config --global user.name "Mbulelo Damba"<br>
 git config --global user.email mabuda19@gmail.com<br><br>
-![Mbulelo](GiphyAnimations/mbu.jpg)
+![Mbulelo](/GiphyAnimations/mbu.jpg)
